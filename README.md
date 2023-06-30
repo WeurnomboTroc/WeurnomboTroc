@@ -23,3 +23,5 @@ Le troc
 <script src="https://cdn.jsdelivr.net/npm/netlify-cms@2/dist/netlify-cms.min.js"></script>
 </body>
 </html>
+cs desktop
+nkdir application 
