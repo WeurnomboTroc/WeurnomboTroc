@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @WeurnomboTroczero
 -an alternative for free exchange.
-- no need money
+- no need money for Live 
 - just troc
 - equality and justice make peace 
 
