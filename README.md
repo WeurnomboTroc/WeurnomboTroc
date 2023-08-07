@@ -21,7 +21,7 @@ Le troc
 </head>
 <body>
 <!-- Include the latest Netlify CMS v2.x.x script that builds the admin panel. -->
-<script src="https://cdn.jsdelivr.net/npm/netlify-cms@2/dist/netlify-cms.min.js"></script>
+<script src="https://cdn
 </body>
 </html>
  <!DOCTYPE html>
@@ -30,7 +30,7 @@ Le troc
 <head>
     <title>MobileSAM in the Browser</title>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/onnxruntime-web/1.14.0/ort.wasm.min.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/@tensorflow/tfjs@latest"> </script>
+
     <link rel="stylesheet" href="css/styles.css">
 </head>
 
