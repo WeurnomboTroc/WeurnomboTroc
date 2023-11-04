@@ -1,21 +1,12 @@
-- 👋 Hi, I’m @WeurnomboTroczero
--an alternative for free exchange.
-- no need money for Live 
-- just troc
-- equality and justice make peace 
-
-
-<!---
 WeurnomboTroc/WeurnomboTroc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-Le troc
 <!doctype html>
 <html lang="en-us">
 <head>
   <meta charset="utf-8">
-  <meta content="width=device-width, initial-scale=1.0" name="viewport">
-  <title>Wowchemy Content Manager</title>
+  <meta content="width=device-width, initial-scale=1.0" name="weurnombotroc">
+  <title>site de troc mondial</title>
   <!-- Include Netlify Identity for authentication. -->
   <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
 </head>
@@ -50,3 +41,5 @@ Le troc
 
 </html>
 "wo"
+
+
