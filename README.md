@@ -8,7 +8,6 @@ You can click the Preview link to take a look at your changes.
   <meta content="width=device-width, initial-scale=1.0" name="weurnombotroc">
   <title>site de troc mondial</title>
   <!-- Include Netlify Identity for authentication. -->
-  <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
 </head>
 <body>
 <!-- Include the latest Netlify CMS v2.x.x script that builds the admin panel. -->
